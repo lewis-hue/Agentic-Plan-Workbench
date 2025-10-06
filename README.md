@@ -14,7 +14,7 @@ An interactive, multi-agent framework designed to help developers create, valida
 
 ## 🏛️ Core Competencies & Demonstrated Expertise
 
-This project showcases a sophisticated understanding of the principles and practices required to build robust, scalable, and intelligent AI systems. The expertise demonstrated spans across several key domains:
+This project showcases a deep understanding of the principles and practices required to build robust, scalable, and intelligent AI systems. The expertise demonstrated spans across several key domains:
 
 ### 1. Multi-Agent System Design & Orchestration
 The framework is architected as a collaborative multi-agent system, demonstrating a deep understanding of designing and orchestrating autonomous agents with specialized roles.
