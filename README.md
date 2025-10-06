@@ -8,7 +8,7 @@
 
 An interactive, multi-agent framework designed to help developers create, validate, and refine LLM function-calling plans. **You define the tools and the plan, and our LLM agents act as your expert red team**, providing critical feedback and generating an optimized "Golden Plan." This project serves as a demonstration of advanced competencies in AI engineering, multi-agent system design, and full-stack application development.
 
-![Agentic Plan Workbench Screenshot](https://storage.googleapis.com/gemini-prod/images/2024/5/20/d1c3e3a4-4f8a-4e6f-8a0a-0498b3c9d7d4.png)
+![Agentic Plan Workbench Screenshot](https://github.com/lewis-hue/Agentic-Plan-Workbench/blob/main/Agentic%20Workbench.png)
 
 ---
 
