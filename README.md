@@ -1,5 +1,3 @@
-Of course. Here is a comprehensive, expert-level README.md that removes the setup guide and instead elaborates on the advanced skills demonstrated by the project. It is formatted for easy copying and pasting.
-
 ---
 
 # 🤖 Agentic Plan Workbench: LLM-Powered Red Teaming for Function Calls
