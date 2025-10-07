@@ -10,7 +10,7 @@ An interactive, multi-agent framework designed to help developers create, valida
 
 ![Agentic Plan Workbench Screenshot](https://github.com/lewis-hue/Agentic-Plan-Workbench/blob/main/Agentic%20Workbench.png)
 
-[**LIVE DEMO**](https://github.com/lewis-hue/Agentic-Plan-Workbench/blob/main/Agentic%20Plan%20Workbench-2.mp4)
+**WATCH THE** [**LIVE DEMO**](https://github.com/lewis-hue/Agentic-Plan-Workbench/blob/main/Agentic%20Plan%20Workbench-2.mp4)
 
 ---
 
